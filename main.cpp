@@ -1,6 +1,9 @@
 #include <iostream>
 #include "Maze.h"
 
+// para compilar: 
+// g++ Maze.cpp main.cpp
+
 int main()
 {
     int n;
